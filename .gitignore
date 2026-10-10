@@ -1,0 +1,25 @@
+# Python 字节码与缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 测试与覆盖率缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 发布记录与凭据（绝不提交）
+.cnblogs_posts.json
+.cnblogs_credentials
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
